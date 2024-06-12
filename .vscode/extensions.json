@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint", // ESLint
+        "esbenp.prettier-vscode", // Prettier - Code formatter
+        "dsznajder.es7-react-js-snippets", // ES7+ React/Redux/React-Native snippets
+        "mgmcdermott.vscode-language-babel" // Babel JavaScript
+    ]
+}

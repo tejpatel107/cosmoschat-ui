@@ -1,0 +1,26 @@
+{
+  "json.format.keepLines": false,
+  "debug.javascript.unmapMissingSources": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.validate.enable": true,
+  "files.associations": {
+    "*.jsx" : "javascriptreact",
+  },
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown"
+  ],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "jsx",
+    "html",
+    "react",
+    "css",
+  ]
+}
