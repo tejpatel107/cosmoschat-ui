@@ -12,7 +12,7 @@ const chatContainerStyle = {
     display: "flex"
 };
 
-const API_KEY = "Empty string";
+const API_KEY = process.env.API_KEY;
 
 const openai = new OpenAI({ apiKey: API_KEY, dangerouslyAllowBrowser: true });
 
