@@ -13,7 +13,7 @@
     "typescriptreact",
     "html",
     "vue",
-    "markdown"
+    "markdown",
   ],
   "eslint.validate": [
     "javascript",
