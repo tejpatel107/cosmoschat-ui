@@ -1,20 +1,25 @@
 CosmoChat-UI: Chat Application with GPT-3 Integration
+
 Overview
+
 This is a chat application built using React.js, Material-UI framework, ChatScope-UI-Kit; which integrates with OpenAI's GPT-3.5 model to provide conversational responses. The application also includes real-time statistics on user's sessions activity of previous 7 days using Nivo Charts Histogram.
 
 Features
+
 Real-time chat interface with ChatScope-UI-Kit
 Integration with OpenAI's GPT-3.5 model for conversational responses
 Histogram representing user's activity of saved sessions and deleted sessions in previous 7 days. 
 Session Management: Users can save chat sessions, switch between sessions, continue chat with previous sessions and delete sessions.
 
 Tech Stack:
+
 React.js
 ChatScope-UI-Kit
 OpenAI GPT-3.5
 Nivo Charts
 
 Installation
+
 Clone the repository: git clone https://github.com/your-username/your-repository.git
 Navigate to the project directory: cd your-repository
 Install dependencies: npm install
@@ -22,6 +27,7 @@ Obtain an OpenAI API key from https://openai.com/ and replace API_KEY in ChatBox
 Start the development server: npm start
 
 Usage
+
 Launch the application using npm start.
 Upon running the application, you can start chatting with the virtual assistant.
 Click on "Activity Details" button to switch to the histogram graph view and "Close Activity Detail" to go back to the Welcome Area.
@@ -38,6 +44,7 @@ Application Screenshots:
 ![cosmos task 4](https://github.com/tejpatel107/cosmoschat-ui/assets/80436379/41c7081a-77a5-4511-b4d7-a2fa77b303f5)
 
 Credits
+
 React: https://reactjs.org/
 
 Chat-UI-Kit: https://chatscope.io/
